@@ -1,3 +1,5 @@
+var card = $("#quiz-area");
+
 //Questions
 
 var questions = [
