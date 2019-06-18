@@ -8,6 +8,10 @@ body {
   top: 20%;
 }
 
+#quiz-area {
+    background-color: white;
+}
+
 button {
   display: block;
   width: 400px;
