@@ -1,3 +1,39 @@
+body {
+  height: 100%;
+  text-align: center;
+}
+
+#sub-wrapper {
+  position: relative;
+  top: 20%;
+}
+
+button {
+  display: block;
+  width: 400px;
+  height: 100px;
+  margin: 10px auto 0;
+  font-size: 42px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  font-size: 6.5em;
+  font-weight: bold;
+  color: black;
+}
+
+#start {
+  margin-top: 10%;
+  background: white;
+  border: 2px solid black;
+}
+
+
 /* Background */
 
 body {
