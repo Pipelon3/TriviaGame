@@ -8,8 +8,8 @@ var questions = [
 		answers: {
 			a: 'Zelda',
 			b: 'Link',
-            c: 'Tingle',
-            d: 'Ganondorf'
+      c: 'Tingle',
+      d: 'Ganondorf'
 		},
 		correctAnswer: 'b'
 	},
@@ -18,28 +18,28 @@ var questions = [
 		answers: {
 			a: 'Wario',
 			b: 'Waluigi',
-            c: 'Luigi',
-            d: 'Yoshi'
+      c: 'Luigi',
+      d: 'Yoshi'
 		},
 		correctAnswer: 'c'
     },
     {
 		question: "Pikachu belongs to which game series?",
 		answers: {
-			a: 'Pokempon',
+			a: 'Pokemon',
 			b: 'The Witcher',
-            c: 'Metroid',
-            d: 'Fallout'
+      c: 'Metroid',
+      d: 'Fallout'
 		},
 		correctAnswer: 'a'
     },
     {
 		question: "What city does GTA 5 take place in?",
 		answers: {
-            c: 'Los Gatos',
+      c: 'Los Gatos',
 			a: 'Salt Lake City',
 			b: 'Tampa',
-            d: 'Los Santos'
+      d: 'Los Santos'
 		},
 		correctAnswer: 'd'
     },
@@ -48,8 +48,8 @@ var questions = [
 		answers: {
 			a: 'Ares',
 			b: 'Athena',
-            c: 'Kratos',
-            d: 'Zues'
+      c: 'Kratos',
+      d: 'Zues'
 		},
 		correctAnswer: 'c'
 	}
